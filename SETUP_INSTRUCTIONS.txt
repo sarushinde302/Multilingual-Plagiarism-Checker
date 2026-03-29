@@ -1,0 +1,25 @@
+=======================================================
+  MULTILINGUAL PLAGIARISM CHECKER — STEP 3
+  (Database + History + Spanish Fix)
+=======================================================
+
+WHAT'S NEW IN THIS VERSION:
+- History: Every comparison run is saved automatically
+- View History button shows all past runs with scores
+- Spanish PDF fix: now appears in results even without OCR
+- DB status bar shows history run count live
+
+TO RUN:
+  python main.py
+
+NEW BUTTONS:
+  "View History"   → see all past comparison runs
+  "Export History" → save all history to History_Export.txt
+
+DATABASE TABLES:
+  research_papers   → stores all PDF/DOCX files
+  comparison_history → stores every run summary
+  history_scores    → stores per-file scores per run
+
+Developed by: Saraswati Shinde & Pooja Mule
+University: MIT ADT University

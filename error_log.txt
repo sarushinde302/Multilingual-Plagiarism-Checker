@@ -1,0 +1,10 @@
+[2026-03-29 17:40:20] research_files\spanish.pdf OCR error: C:\\Program Files\\Tesseract-OCR\\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2026-03-29 17:40:20] research_files\spanish.pdf — OCR failed, using Spanish placeholder text.
+[2026-03-29 17:40:34] research_files\spanish.pdf OCR error: C:\\Program Files\\Tesseract-OCR\\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2026-03-29 17:40:34] research_files\spanish.pdf — OCR failed, using Spanish placeholder text.
+[2026-03-29 17:41:29] research_files\spanish.pdf OCR error: C:\\Program Files\\Tesseract-OCR\\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2026-03-29 17:41:29] research_files\spanish.pdf — OCR failed, using Spanish placeholder text.
+[2026-03-29 17:43:48] research_files\spanish.pdf OCR error: C:\\Program Files\\Tesseract-OCR\\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2026-03-29 17:43:48] research_files\spanish.pdf — OCR failed, using Spanish placeholder text.
+[2026-03-29 17:52:13] research_files\spanish.pdf OCR error: C:\\Program Files\\Tesseract-OCR\\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2026-03-29 17:52:13] research_files\spanish.pdf — OCR failed, using Spanish placeholder text.
